@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-hooks-images/static/css/main.f0e2f43a.chunk.css",
+    "main.js": "/goit-react-hw-04-hooks-images/static/js/main.b3f1b497.chunk.js",
+    "main.js.map": "/goit-react-hw-04-hooks-images/static/js/main.b3f1b497.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-04-hooks-images/static/js/runtime-main.ddafa187.js",
+    "runtime-main.js.map": "/goit-react-hw-04-hooks-images/static/js/runtime-main.ddafa187.js.map",
+    "static/css/2.0975cee1.chunk.css": "/goit-react-hw-04-hooks-images/static/css/2.0975cee1.chunk.css",
+    "static/js/2.74b2aba0.chunk.js": "/goit-react-hw-04-hooks-images/static/js/2.74b2aba0.chunk.js",
+    "static/js/2.74b2aba0.chunk.js.map": "/goit-react-hw-04-hooks-images/static/js/2.74b2aba0.chunk.js.map",
+    "index.html": "/goit-react-hw-04-hooks-images/index.html",
+    "static/css/2.0975cee1.chunk.css.map": "/goit-react-hw-04-hooks-images/static/css/2.0975cee1.chunk.css.map",
+    "static/css/main.f0e2f43a.chunk.css.map": "/goit-react-hw-04-hooks-images/static/css/main.f0e2f43a.chunk.css.map",
+    "static/js/2.74b2aba0.chunk.js.LICENSE.txt": "/goit-react-hw-04-hooks-images/static/js/2.74b2aba0.chunk.js.LICENSE.txt",
+    "static/media/Search-pana.85837daf.svg": "/goit-react-hw-04-hooks-images/static/media/Search-pana.85837daf.svg",
+    "static/media/index.css": "/goit-react-hw-04-hooks-images/static/media/mountains.3fa41b08.jpg",
+    "static/media/pixabay.63e014d5.png": "/goit-react-hw-04-hooks-images/static/media/pixabay.63e014d5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddafa187.js",
+    "static/css/2.0975cee1.chunk.css",
+    "static/js/2.74b2aba0.chunk.js",
+    "static/css/main.f0e2f43a.chunk.css",
+    "static/js/main.b3f1b497.chunk.js"
+  ]
+}
